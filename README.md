@@ -10,7 +10,7 @@ Recent Computer Science Graduate | Seeking Software Development Opportunities
 
 💼 Open to collaborations, internships, and full-time opportunities.
 
-📫 Reach me at [Your Email](shelavaleswaraj1610@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/swaraj-shelavale/).
+📫 Reach me at [Email](shelavaleswaraj1610@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/swaraj-shelavale/).
 
 ⚡ Fun fact: I enjoy playing chess, and I'm always up for a coding challenge.
 
@@ -40,4 +40,4 @@ Currently, I'm focused on improving my algorithm and data structure skills. I ai
 
 ### 💬 Let's Connect
 
-I'm excited to connect with fellow developers, recruiters, and industry professionals. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/swaraj-shelavale/) or via email at [Your Email](shelavaleswaraj1610@gmail.com).
+I'm excited to connect with fellow developers, recruiters, and industry professionals. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/swaraj-shelavale/) or via email at [Email](shelavaleswaraj1610@gmail.com).
