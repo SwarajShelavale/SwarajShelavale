@@ -11,6 +11,7 @@ Recent Computer Science Graduate | Seeking Software Development Opportunities
 💼 Open to collaborations, internships, and full-time opportunities.
 
 📫 Reach me at 
+
   <a href="https://www.linkedin.com/in/swaraj-shelavale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="shelavaleswaraj1610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
@@ -37,7 +38,8 @@ Recent Computer Science Graduate | Seeking Software Development Opportunities
 
 ### 📚 Learning and Goals
 
-Currently, I'm focused on improving my algorithm and data structure skills. I aim to contribute to open source projects and continue expanding my knowledge of [Technology/Concept].
+Currently, I'm focused on improving my algorithm and data structure skills. I aim to contribute to open source projects and continue expanding my knowledge of 
+Software Development.
 
 ---
 
@@ -45,8 +47,8 @@ Currently, I'm focused on improving my algorithm and data structure skills. I ai
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/swaraj-shelavale/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedanti-bhoyar" height="30" width="40" /></a>
-  <a href="https://instagram.com/vedanti.bhoyar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedanti.bhoyar" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/bhoyar_veda?hr_r=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhoyar_veda" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/thecompetitivedev/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedanti.bhoyar" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/errorless111" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhoyar_veda" height="30" width="40" /></a>
   <a href="https://leetcode.com/thecompetitivedev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantibhoyar" height="30" width="40" /></a>
 </p>
 
