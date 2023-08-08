@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi there, I'm Swaraj Shelavale 👋!%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi there, I'm Swaraj Shelavale!%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 
 Recent Computer Science Graduate | Seeking Software Development Opportunities
 
@@ -10,7 +10,11 @@ Recent Computer Science Graduate | Seeking Software Development Opportunities
 
 💼 Open to collaborations, internships, and full-time opportunities.
 
-📫 Reach me at [Email](shelavaleswaraj1610@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/swaraj-shelavale/).
+📫 Reach me at <p align="center">
+  <a href="https://www.linkedin.com/in/vedanti-bhoyar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bhoyar.veda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 
 ⚡ Fun fact: I enjoy playing chess, and I'm always up for a coding challenge.
 
