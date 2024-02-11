@@ -2,7 +2,7 @@
 
 Recent Computer Science Graduate | Seeking Software Development Opportunities
 
-🎓 Graduated in 2022  in Computer Engineering from Dr.Babasaheb Ambedkar Technoloical University,Lonere.
+🎓 Graduated in 2022 in Computer Engineering from Dr. Babasaheb Ambedkar Technological University, Lonere.
 
 🔭 Currently searching for entry-level software engineering roles.
 
@@ -15,15 +15,15 @@ Recent Computer Science Graduate | Seeking Software Development Opportunities
   <a href="https://www.linkedin.com/in/swaraj-shelavale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:shelavaleswaraj1610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-
 ⚡ Fun fact: I enjoy playing chess, and I'm always up for a coding challenge.
 
 ---
 
 ### 🚀 Tech Stack
 
-- **Languages:** Java, Python,C++,C,Swift
+- **Languages:** Java, C++, C, JavaScript ,Swift
 - **Web Development:** HTML, CSS, React
+- **Frameworks:** Spring, Spring Boot
 - **Databases:** SQL
 - **Version Control:** Git
 - **Tools:** VS Code, IntelliJ IDEA, Git/GitHub
@@ -38,11 +38,9 @@ Recent Computer Science Graduate | Seeking Software Development Opportunities
 
 ### 📚 Learning and Goals
 
-Currently, I'm focused on improving my algorithm and data structure skills. I aim to contribute to open source projects and continue expanding my knowledge of 
-Software Development.
+Currently, I'm focused on improving my algorithm and data structure skills. I aim to contribute to open source projects and continue expanding my knowledge of Software Development.
 
 ---
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -53,4 +51,3 @@ Software Development.
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shelavaleswaraj&label=Profile%20views&color=0e75b6&style=flat-square" alt="swaraj" /> </p>
-
